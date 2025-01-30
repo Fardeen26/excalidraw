@@ -1,0 +1,1 @@
+export const JWT_SECRET = "ilove123321loveme"
