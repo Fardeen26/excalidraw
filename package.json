@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "rl-excalidraw",
   "private": true,
   "scripts": {
     "build": "turbo build",
